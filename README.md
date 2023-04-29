@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱I’m currently working on build a unified schduler system on Kubernetes.
-- 🔭
 - 📫 How to reach me:
   - Email: wangxigang2014@gmail.com 
 
