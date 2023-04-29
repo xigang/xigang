@@ -1,4 +1,4 @@
-### Hi there 👋 I'm xigang
+### Hi 👋 I'm xigang
 
 - 🌱I’m currently working on build a unified schduler system on Kubernetes.
 - 📫 How to reach me:
