@@ -1,6 +1,12 @@
 ### Hi 👋 I'm xigang
 
 - 🌱 I’m currently working on build a unified schduler system on Kubernetes.
+- I am interested in:
+    - Distributed systems
+    - Operating systems
+    - Hybrid orchestration systems
+    - Kubernetes
+    - Go
 - 📫 How to reach me:
   - Email: wangxigang2014@gmail.com 
 
