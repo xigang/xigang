@@ -1,6 +1,6 @@
 ### Hi 👋 I'm xigang
 
-- 🌱 I’m currently working on build a unified schduler system on Kubernetes.
+- 🌱 I’m currently working on build a unified scheduler system on Kubernetes.
 - 💬 I am interested in:
     - Distributed systems
     - Operating systems
