@@ -6,7 +6,6 @@
     - Operating systems
     - Hybrid orchestration systems
     - Kubernetes, Containerd, Runc
-    - Go
 - 📫 How to reach me:
   - Email: wangxigang2014@gmail.com 
 
