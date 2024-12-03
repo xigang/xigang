@@ -1,6 +1,8 @@
 ### Hi 👋 I'm xigang
 
 - 🌱 I’m currently working on build a unified scheduler system on Kubernetes.
+- 📖 Learning:
+    - etcd and distributed key-value stores
 - 💬 I am interested in:
     - Distributed systems
     - Operating systems
