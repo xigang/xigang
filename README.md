@@ -1,15 +1,12 @@
 ### Hi 👋 I'm xigang
 
 - 🌱 I’m currently working on build a unified scheduler system on Kubernetes.
-- 📖 Learning:
-    - etcd and distributed key-value stores
 - 💬 I am interested in:
     - Distributed systems
     - Operating systems
     - Hybrid orchestration systems
     - Kubernetes, Containerd, Runc
-- 📫 How to reach me:
-  - Email: wangxigang2014@gmail.com 
+- 📫 How to reach me: wangxigang2014@gmail.com 
 
 <!--
 **xigang/xigang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
