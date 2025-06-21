@@ -1,6 +1,7 @@
 ### Hi 👋 I'm xigang
 
-- 🌱 I’m currently working on build a unified scheduler system on Kubernetes.
+- 🌱 Currently building a unified scheduler for multi-cloud and multi-cluster Kubernetes.
+- 📚 Learning AI infrastructure and orchestration.
 - 💬 I am interested in:
     - Distributed systems
     - Operating systems
