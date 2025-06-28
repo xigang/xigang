@@ -5,7 +5,7 @@
 - 💬 I am interested in:
     - Distributed systems
     - Operating systems
-    - Hybrid orchestration systems
+    - Colocation systems
     - Kubernetes, Containerd, Runc
 - 📫 How to reach me: wangxigang2014@gmail.com 
 
