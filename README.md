@@ -3,10 +3,7 @@
 - 🌱 Currently building a unified scheduler for multi-cloud and multi-cluster Kubernetes.
 - 📚 Learning AI infrastructure and orchestration.
 - 💬 I am interested in:
-    - Distributed systems
-    - Operating systems
-    - Colocation systems
-    - Kubernetes, Containerd, Runc
+    - Distributed Systems, Operating Systems, Colocation Systems, Kubernetes
 - 📫 How to reach me: wangxigang2014@gmail.com 
 
 <!--
