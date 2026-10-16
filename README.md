@@ -1,10 +1,11 @@
 ### Hi 👋 I'm xigang
 
-- 🌱 Currently building a unified scheduler for multi-cloud and multi-cluster Kubernetes.
-- 📚 Learning AI infrastructure and orchestration.
-- 💬 I am interested in:
-    - Distributed Systems, Operating Systems, Colocation Systems, Kubernetes
-- 📫 How to reach me: wangxigang2014@gmail.com 
+- 🔭 Building large-scale Kubernetes clusters, focused on performance and reliability.
+- 🌐 Previously worked on a unified scheduler for multi-cloud and multi-cluster Kubernetes.
+- 🛠️ Contributing to Kubernetes scalability and control plane improvements.
+- 📚 Exploring AI infrastructure and workload orchestration.
+- 💬 Interested in distributed systems, distributed storage, operating systems, and workload colocation.
+- 📫 Reach me at [wangxigang2014@gmail.com](mailto:wangxigang2014@gmail.com).
 
 <!--
 **xigang/xigang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
