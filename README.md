@@ -2,7 +2,6 @@
 
 - 🔭 Building large-scale Kubernetes clusters, focused on performance and reliability.
 - 🌐 Previously worked on a unified scheduler for multi-cloud and multi-cluster Kubernetes.
-- 🛠️ Contributing to Kubernetes scalability and control plane improvements.
 - 📚 Exploring AI infrastructure and workload orchestration.
 - 💬 Interested in distributed systems, distributed storage, operating systems, and workload colocation.
 - 📫 Reach me at [wangxigang2014@gmail.com](mailto:wangxigang2014@gmail.com).
