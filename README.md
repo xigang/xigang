@@ -1,5 +1,6 @@
 ### Hi 👋 I'm xigang
 
+<!--
 - 🔭 Building large-scale Kubernetes clusters, focused on performance and reliability.
 - 🌐 Previously worked on a unified scheduler for multi-cloud and multi-cluster Kubernetes.
 - 📚 Exploring AI infrastructure and workload orchestration.
